@@ -1,0 +1,49 @@
+body{
+	background: #373737;
+	font-family: sans-serif;
+	color: white;
+	margin: 0px;
+}
+header{
+	background-color:  #cccccc;
+	height: 50px;
+}
+h1{
+	float: left;
+	margin-left:30px;
+	line-height: 20px;
+}
+nav a{
+	color: white;
+	text-decoration: none;
+	float: right;
+	padding:20px;
+	margin-right: 30px;
+	text-transform: capitalize;
+}
+a:hover{ color:blue;}
+
+.b{
+	width:100%;
+
+	
+}
+.col{
+	width:30.33%;
+	text-align: justify;
+	float: left;
+	margin: 20px;
+	
+}
+.col h3{
+	background-color: #303030;
+	font-size: 30px;
+	text-transform: capitalize;
+}
+footer{
+	clear: both;
+	display: block;
+	text-align: center;
+	font-weight: 5px;
+	font-size: 15px;
+}
